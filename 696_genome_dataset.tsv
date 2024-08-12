@@ -1,0 +1,697 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+GCF_000195955.2	ASM19595v2	Mycobacterium tuberculosis H37Rv		H37Rv					Annotation submitted by NCBI RefSeq	Complete Genome	2013-02-01		1
+GCF_000196555.1	ASM19655v1	Bifidobacterium longum subsp. longum JCM 1217		JCM 1217					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2011-01-28		1
+GCF_000009765.2	ASM976v2	Streptomyces avermitilis MA-4680 = NBRC 14893		MA-4680					GCF_000009765.2-RS_2024_03_28	Complete Genome	2016-03-24		2
+GCF_000062885.1	ASM6288v1	Saccharopolyspora erythraea NRRL 2338		NRRL 2338					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2007-03-21		1
+GCF_000157895.3	ASM15789v2	Mycobacterium kansasii ATCC 12478		ATCC 12478					GCF_000157895.3-RS_2024_03_28	Complete Genome	2013-11-01		2
+GCF_001632805.1	ASM163280v1	Mycobacteroides chelonae CCUG 47445		CCUG 47445					GCF_001632805.1-RS_2024_03_28	Complete Genome	2016-04-27		1
+GCF_002706665.1	ASM270666v1	Bifidobacterium pseudolongum subsp. globosum DSM 20092		DSM 20092					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-10-25		1
+GCF_000284295.1	ASM28429v1	Actinoplanes missouriensis 431		431					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2012-03-28		1
+GCF_000331185.2	ASM33118v2	Streptomyces rimosus subsp. rimosus ATCC 10970		ATCC 10970					GCF_000331185.2-RS_2024_04_16	Complete Genome	2021-03-19		2
+GCF_008704425.1	ASM870442v1	Streptomyces fradiae ATCC 10745 = DSM 40063		ATCC 10745					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-09-26		1
+GCF_000023145.1	ASM2314v1	Corynebacterium kroppenstedtii DSM 44385		DSM 44385					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2009-05-19		1
+GCF_001025195.1	ASM102519v1	Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043		JCM 1194					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-03-24		1
+GCF_001941345.1	ASM194134v1	Corynebacterium stationis		622=DSM 20302					GCF_001941345.1-RS_2024_03_12	Complete Genome	2017-01-10		2
+GCF_900638215.1	56553_A01	Nocardiopsis dassonvillei		NCTC10488					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_020099395.1	ASM2009939v1	Streptomyces mobaraensis		DSM 40587					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-09-23		2
+GCF_010727605.1	ASM1072760v1	Mycobacterium simiae		JCM 12377					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_000220705.2	ASM22070v2	Streptomyces xinghaiensis S187		S187					GCF_000220705.2-RS_2024_03_21	Complete Genome	2017-09-12		1
+GCF_000145235.1	ASM14523v1	Micromonospora aurantiaca ATCC 27029		ATCC 27029					GCF_000145235.1-RS_2024_04_26	Complete Genome	2010-08-11		1
+GCF_003584745.1	ASM358474v1	Mycobacterium pseudoshottsii JCM 15466		JCM 15466					GCF_003584745.1-RS_2024_03_28	Complete Genome	2017-10-25		1
+GCF_000478885.1	ASM47888v1	Adlercreutzia equolifaciens DSM 19450		DSM 19450					GCF_000478885.1-RS_2024_04_26	Complete Genome	2013-08-16		1
+GCF_000470775.1	ASM47077v1	Leifsonia xyli subsp. cynodontis DSM 46306		DSM 46306					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-09-24		1
+GCF_000013345.1	ASM1334v1	Frankia casuarinae		CcI3					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2006-02-06		1
+GCF_001482365.1	ASM148236v1	Kocuria flava		HO-9041					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-12-24		5
+GCF_002849715.1	ASM284971v1	Arthrobacter crystallopoietes		DSM 20117					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-01-03		3
+GCF_016728365.1	ASM1672836v1	Corynebacterium tuberculostearicum		FDAARGOS_1117					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-01-20		1
+GCF_010727475.1	ASM1072747v1	Mycolicibacterium mageritense		JCM 12375					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_001441165.1	ASM144116v1	Acidipropionibacterium acidipropionici		CGMCC 1.2230					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-11-09		1
+GCF_001267885.1	ASM126788v1	Streptomyces ambofaciens ATCC 23877		ATCC 23877					GCF_001267885.1-RS_2024_04_26	Complete Genome	2015-08-17		2
+GCF_000017305.1	ASM1730v1	Kineococcus radiotolerans SRS30216 = ATCC BAA-149		SRS30216					GCF_000017305.1-RS_2024_03_28	Complete Genome	2008-08-14		3
+GCF_030408375.1	ASM3040837v1	Corynebacterium afermentans subsp. lipophilum		DSM 44282					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_001025155.1	ASM102515v1	Bifidobacterium angulatum DSM 20098 = JCM 7096		JCM 7096					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-03-24		1
+GCF_001655245.1	ASM165524v1	Mycolicibacterium vaccae 95051		95051					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-06-03		1
+GCF_000212695.1	ASM21269v1	Cellulomonas fimi ATCC 484		ATCC 484					GCF_000212695.1-RS_2024_04_26	Complete Genome	2011-05-09		1
+GCF_000164695.2	ASM16469v2	Rothia dentocariosa ATCC 17931		ATCC 17931					GCF_000164695.2-RS_2024_03_28	Complete Genome	2010-11-03		1
+GCF_008704795.1	ASM870479v1	Streptomyces spectabilis		ATCC 27465					GCF_008704795.1-RS_2024_04_27	Complete Genome	2019-09-26		1
+GCF_014673495.1	ASM1467349v1	Streptomyces griseofuscus		DSM 40191					GCF_014673495.1-RS_2024_03_28	Complete Genome	2020-09-21		4
+GCF_019933235.1	ASM1993323v1	Streptomyces angustmyceticus		JCM 4053					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-09-13		1
+GCF_013389765.1	ASM1338976v1	Micromonospora carbonacea		aurantiaca					GCF_013389765.1-RS_2024_05_05	Complete Genome	2020-07-06		1
+GCF_019645875.1	ASM1964587v1	Mycolicibacterium senegalense		ATCC 35796					GCF_019645875.1-RS_2024_06_24	Complete Genome	2021-08-17		1
+GCF_010731695.1	ASM1073169v1	Mycolicibacterium litorale		JCM 17423					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_002356315.1	ASM235631v1	Mycobacterium shigaense		JCM 32072					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-06-15		1
+GCF_021919345.1	ASM2191934v1	Paenarthrobacter nicotinovorans		ATCC 49919					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-02-03		2
+GCF_003367705.1	ASM336770v1	Microbacterium foliorum		NRRL B-24224					GCF_003367705.1-RS_2024_04_27	Complete Genome	2018-08-09		1
+GCF_000975265.2	ASM97526v2	Mycobacterium lepromatosis		FJ924					GCF_000975265.2-RS_2024_05_13	Complete Genome	2022-02-07		1
+GCF_003194085.1	ASM319408v1	Aurantimicrobium photophilum		MWH-Mo1					GCF_003194085.1-RS_2024_03_28	Complete Genome	2018-06-06		1
+GCF_030408675.1	ASM3040867v1	Corynebacterium durum		DSM 45333					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_900478045.1	47555_C02	Corynebacterium minutissimum		NCTC10288					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-06-17		1
+GCF_900637185.1	49867_H01	Nocardia asteroides		NCTC11293					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_000022025.1	ASM2202v1	Pseudarthrobacter chlorophenolicus A6		A6					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2009-01-09		3
+GCF_016127955.1	ASM1612795v1	Actinomyces oris		FDAARGOS_1051					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-12-20		2
+GCF_900187235.1	52184_D01	Corynebacterium urealyticum		NCTC12011					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-15		1
+GCF_000724605.1	ASM72460v1	Actinotignum schaalii		CCUG 27420					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-07-10		1
+GCF_000197735.1	ASM19773v1	Glutamicibacter arilaitensis Re117		Re117					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2010-09-27		3
+GCF_000022905.1	ASM2290v1	Corynebacterium aurimucosum ATCC 700975		DSM 44827; ATCC 700975					GCF_000022905.1-RS_2024_03_28	Complete Genome	2009-04-24		2
+GCF_001042675.1	ASM104267v1	Parascardovia denticolens DSM 10105 = JCM 12538		JCM 12538					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-03-24		1
+GCF_003711105.1	ASM371110v1	Actinoplanes teichomyceticus ATCC 31121		ATCC 31121					GCF_003711105.1-RS_2024_04_27	Complete Genome	2018-11-05		1
+GCF_000023865.1	ASM2386v1	Saccharomonospora viridis DSM 43017		DSM 43017					GCF_000023865.1-RS_2024_03_28	Complete Genome	2009-08-26		1
+GCF_000184685.1	ASM18468v1	Intrasporangium calvum DSM 43043		DSM 43043					GCF_000184685.1-RS_2024_04_26	Complete Genome	2010-12-29		1
+GCF_000830005.1	ASM83000v1	Streptomyces vietnamensis		GIMV4.0001					GCF_000830005.1-RS_2024_05_02	Complete Genome	2015-01-29		2
+GCF_037414505.1	Str_netropsis_B-235_v1	Streptomyces netropsis		M-141					GCF_037414505.1-RS_2024_04_05	Complete Genome	2024-04-05		1
+GCF_016906185.1	ASM1690618v1	Streptomyces californicus		FDAARGOS_1209					GCF_016906185.1-RS_2024_03_28	Complete Genome	2021-02-18		3
+GCF_006716135.1	ASM671613v1	Streptomyces calvus		DSM 41452					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-07-08		1
+GCF_003945385.1	ASM394538v1	Pseudonocardia autotrophica		NBRC 12743					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-08-23		2
+GCF_003614435.1	ASM361443v1	Mycobacterium paragordonae		49061					GCF_003614435.1-RS_2024_04_22	Complete Genome	2018-10-04		5
+GCF_001605725.1	ASM160572v1	Mycobacteroides immunogenum		CCUG 47286					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-03-31		1
+GCF_003574835.2	ASM357483v2	Thermobifida halotolerans		DSM 44931					GCF_003574835.2-RS_2024_04_17	Complete Genome	2022-04-04		2
+GCF_001302565.1	ASM130256v1	Glutamicibacter halophytocola		KLBMP 5180					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-09-29		2
+GCF_003096095.1	ASM309609v1	Dietzia psychralcaliphila		ILA-1					GCF_003096095.1-RS_2024_04_27	Complete Genome	2018-05-07		2
+GCF_000069225.1	ASM6922v1	Clavibacter sepedonicus		ATCC 33113					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2008-02-29		3
+GCF_030408755.1	ASM3040875v1	Corynebacterium felinum		DSM 44508					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_004564075.1	ASM456407v1	Microbacterium sediminis		YLB-01					GCF_004564075.1-RS_2024_04_27	Complete Genome	2019-04-02		2
+GCF_030408435.1	ASM3040843v1	Corynebacterium auriscanis		DSM 44609					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_030408395.1	ASM3040839v1	Corynebacterium aquatimens		DSM 45632					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_000980815.1	ASM98081v1	Corynebacterium camporealensis		DSM 44610					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-04-24		1
+GCF_900478035.1	47555_E02	Corynebacterium renale		NCTC7448					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-06-17		1
+GCF_000699505.1	ASM69950v1	Rhodoluna lacicola		MWH-Ta8					GCF_000699505.1-RS_2024_03_28	Complete Genome	2014-06-09		1
+GCF_014701115.1	ASM1470111v1	Streptomyces aurantiacus		JCM 4677					GCF_014701115.1-RS_2024_05_26	Complete Genome	2020-09-11		1
+GCF_002263495.1	ASM226349v1	Nocardiopsis gilva YIM 90087		YIM 90087					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-22		1
+GCF_003010915.2	ASM301091v2	Gulosibacter molinativorax		ON4					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-05-28		2
+GCF_007970465.1	ASM797046v1	Corynebacterium nuruki S6-4		S6-4					GCF_007970465.1-RS_2024_03_28	Complete Genome	2019-08-12		1
+GCF_019047805.1	ASM1904780v1	Corynebacterium freneyi		FDAARGOS 1426					GCF_019047805.1-RS_2024_05_06	Complete Genome	2021-06-28		1
+GCF_023520795.1	ASM2352079v1	Corynebacterium accolens		DSM 44278					GCF_023520795.1-RS_2024_05_27	Complete Genome	2022-05-23		1
+GCF_030408415.1	ASM3040841v1	Corynebacterium appendicis CIP 107643		CIP 107643					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_900475915.1	48128_H02	Arcanobacterium haemolyticum		NCTC8452					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-06-17		1
+GCF_000340435.2	ASM34043v3	Mycobacterium haemophilum DSM 44634		ATCC 29548					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-10-30		1
+GCF_000014185.1	ASM1418v1	Rubrobacter xylanophilus DSM 9941		DSM 9941					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2006-06-09		1
+GCF_001042635.1	ASM104263v1	Bifidobacterium scardovii JCM 12489 = DSM 13734		JCM 12489					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-02-17		1
+GCF_000011305.1	ASM1130v1	Corynebacterium efficiens YS-314		YS-314					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2004-05-11		3
+GCF_900187295.1	52191_E01	Corynebacterium cystitidis		NCTC11863					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-15		1
+GCF_000344785.1	ASM34478v1	Corynebacterium callunae DSM 20147		DSM 20147					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-03-06		3
+GCF_900187045.1	51485_B01	Dermatophilus congolensis		NCTC13039					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-15		1
+GCF_000092225.1	ASM9222v1	Tsukamurella paurometabola DSM 20162		DSM 20162					GCF_000092225.1-RS_2024_05_01	Complete Genome	2010-05-13		2
+GCF_900637725.1	52551_C01	Arachnia propionica		NCTC12967					GCF_900637725.1-RS_2024_04_27	Complete Genome	2018-12-20		1
+GCF_000018885.1	ASM1888v1	Renibacterium salmoninarum ATCC 33209		ATCC 33209					GCF_000018885.1-RS_2024_04_26	Complete Genome	2007-12-18		1
+GCF_000143845.1	ASM14384v1	Olsenella uli DSM 7084		DSM 7084					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2010-07-26		1
+GCF_001302585.1	ASM130258v1	Kibdelosporangium phytohabitans		KLBMP1111					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-09-29		1
+GCF_015689475.1	ASM1568947v1	Streptomyces solisilvae		HNM0141					GCF_015689475.1-RS_2024_05_05	Complete Genome	2020-11-25		1
+GCF_025264705.1	ASM2526470v1	Dactylosporangium aurantiacum		NRRL B-8018					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-09-19		1
+GCF_001542625.1	ASM154262v2	Streptomyces griseochromogenes		ATCC 14511					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-07-05		1
+GCF_027626975.1	ASM2762697v1	Streptomyces nigrescens		DSM 40276					GCF_027626975.1-RS_2024_04_01	Complete Genome	2023-01-10		2
+GCF_017639205.1	ASM1763920v1	Streptomyces nojiriensis		JCM 3382					GCF_017639205.1-RS_2024_04_23	Complete Genome	2021-03-30		1
+GCF_000732925.1	ASM73292v1	Amycolatopsis japonica		DSM 44213					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-07-24		2
+GCF_033406955.1	ASM3340695v1	Streptomyces violaceoruber		CGMCC 4.1801					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-11-07		1
+GCF_001013905.1	sleC34	Streptomyces leeuwenhoekii		type strain (C34 = DSM 42122 = NRRL B-24963)					GCF_001013905.1-RS_2024_04_08	Complete Genome	2015-05-21		3
+GCF_013046785.1	ASM1304678v1	Streptomyces argyrophyllae		Jing01					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-05-12		1
+GCF_002157835.1	ASM215783v1	Mycobacterium dioxanotrophicus		PH-06					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-05-25		5
+GCF_009299385.1	ASM929938v1	Streptomyces cinereoruber		ATCC 19740					GCF_009299385.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_003097515.1	ASM309751v1	Streptomyces tirandamycinicus		HNM0039					GCF_003097515.1-RS_2024_04_22	Complete Genome	2018-05-08		1
+GCF_027942015.1	ASM2794201v1	Streptomyces goshikiensis		CGMCC 4.1796					GCF_027942015.1-RS_2024_05_27	Complete Genome	2023-01-23		5
+GCF_003122365.1	ASM312236v1	Streptomyces spongiicola		HNM0071					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-05-14		1
+GCF_002240355.1	ASM224035v1	Prauserella marina		DSM 45268					GCF_002240355.1-RS_2024_05_03	Complete Genome	2017-08-03		2
+GCF_022370755.2	ASM2237075v2	Mycolicibacterium goodii		ATCC 700504					GCF_022370755.2-RS_2024_06_24	Complete Genome	2022-08-24		1
+GCF_002234535.1	ASM223453v1	Actinoalloteichus hoggarensis		DSM 45943					GCF_002234535.1-RS_2024_05_03	Complete Genome	2017-07-27		1
+GCF_001747425.1	ASM174742v1	Actinoalloteichus hymeniacidonis		HPA177					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-09-28		1
+GCF_010726085.1	ASM1072608v1	Mycolicibacterium moriokaense		JCM 6375					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_900637195.1	50279_F01	Mycolicibacterium aurum		NCTC10437					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_010729105.1	ASM1072910v1	Mycobacterium saskatchewanense		JCM 13016					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010728925.1	ASM1072892v1	Mycolicibacterium gadium		JCM 12688					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_008329645.1	ASM832964v1	Mycolicibacterium grossiae		DSM 104744					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-09-08		2
+GCF_024734075.1	ASM2473407v1	Gordonia mangrovi		HNM0687					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-08-23		1
+GCF_019645855.1	ASM1964585v1	Mycobacterium malmoense		ATCC 29571					GCF_019645855.1-RS_2024_06_24	Complete Genome	2021-08-17		1
+GCF_002263515.1	ASM226351v1	Actinopolyspora erythraea		YIM 90600					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-22		1
+GCF_023208015.1	ASM2320801v1	Thermobifida alba		DSM 43795					GCF_023208015.1-RS_2024_04_21	Complete Genome	2022-05-02		1
+GCF_028532485.1	ASM2853248v1	Iamia majanohamensis		DSM 19957					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-02-07		1
+GCF_002096055.1	ASM209605v1	Cnuibacter physcomitrellae		XA(T)					GCF_002096055.1-RS_2024_03_28	Complete Genome	2017-04-18		3
+GCF_002407065.1	ASM240706v1	Brachybacterium ginsengisoli		DCY80					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-10-02		1
+GCF_004135285.1	ASM413528v1	Microbacterium protaetiae		DFW100M-13					GCF_004135285.1-RS_2024_04_08	Complete Genome	2019-02-03		1
+GCF_003355475.1	ASM335547v1	Brachybacterium saurashtrense		DSM 23186					GCF_003355475.1-RS_2024_04_27	Complete Genome	2018-08-06		1
+GCF_004135405.1	ASM413540v1	Agromyces protaetiae		FW100M-8					GCF_004135405.1-RS_2024_04_19	Complete Genome	2019-02-03		1
+GCF_006337125.1	ASM633712v1	Serinicoccus chungangensis		CCUG 59777					GCF_006337125.1-RS_2024_03_28	Complete Genome	2019-06-13		1
+GCF_001974985.1	ASM197498v1	Microbacterium aurum		KACC 15219					GCF_001974985.1-RS_2024_03_28	Complete Genome	2017-01-30		1
+GCF_025758395.1	ASM2575839v1	Microbacterium terricola		JCM 14903					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-10-19		1
+GCF_001997295.1	ASM199729v1	Tessaracoccus flavus		RP1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-02-14		1
+GCF_004011095.1	ASM401109v1	Rathayibacter rathayi		DSM 7485					GCF_004011095.1-RS_2024_03_28	Complete Genome	2019-01-10		1
+GCF_014898175.1	ASM1489817v1	Bifidobacterium lemurum		DSM 28807					GCF_014898175.1-RS_2024_03_28	Complete Genome	2020-10-20		1
+GCF_011047135.1	ASM1104713v1	Microbacterium endophyticum		DSM 27099					GCF_011047135.1-RS_2024_04_01	Complete Genome	2020-03-02		1
+GCF_001941465.1	ASM194146v1	Corynebacterium flavescens		OJ8					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-01-10		1
+GCF_028609865.1	ASM2860986v1	Corynebacterium jeddahense		DSM 45997					GCF_028609865.1-RS_2024_03_24	Complete Genome	2023-02-13		1
+GCF_011046975.1	ASM1104697v1	Microbacterium amylolyticum		DSM 24221					GCF_011046975.1-RS_2024_04_01	Complete Genome	2020-03-02		2
+GCF_902702935.1	FRC0190	Corynebacterium rouxii		FRC0190					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-25		1
+GCF_001643775.1	ASM164377v1	Denitrobacterium detoxificans		NPOH1					GCF_001643775.1-RS_2024_03_28	Complete Genome	2016-05-16		1
+GCF_028609845.1	ASM2860984v1	Corynebacterium heidelbergense		DSM 104638					GCF_028609845.1-RS_2024_03_24	Complete Genome	2023-02-13		2
+GCF_029632765.1	ASM2963276v1	Arcanobacterium wilhelmae		DSM 102162					GCF_029632765.1-RS_2024_04_10	Complete Genome	2023-04-10		1
+GCF_000737865.1	ASM73786v1	Bifidobacterium coryneforme		LMG18911					GCF_000737865.1-RS_2024_03_27	Complete Genome	2014-08-05		1
+GCF_002355535.1	ASM235553v1	Aurantimicrobium minutum		KNC					GCF_002355535.1-RS_2024_04_29	Complete Genome	2016-05-12		1
+GCF_001854225.1	ASM185422v1	Candidatus Rhodoluna planktonica		MWH-Dar1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-10-26		1
+GCF_008704715.1	ASM870471v1	Streptomyces chartreusis		ATCC 14922					GCF_008704715.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_019397265.1	ASM1939726v1	Nonomuraea coxensis DSM 45129		DSM 45129					GCF_019397265.1-RS_2024_05_06	Complete Genome	2021-07-29		1
+GCF_000058485.1	ASM5848v1	Frankia alni ACN14a		ACN14a					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2006-08-03		1
+GCF_000237305.1	ASM23730v1	Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488		NRRL 8057					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2011-06-24		2
+GCF_019456675.1	ASM1945667v1	Mycolicibacterium pallens		JCM 16370					GCF_019456675.1-RS_2024_06_24	Complete Genome	2021-08-06		3
+GCF_022374875.2	ASM2237487v3	Mycolicibacterium rufum		JCM 16372					GCF_022374875.2-RS_2024_06_24	Complete Genome	2022-09-02		3
+GCF_000016425.1	ASM1642v1	Salinispora tropica CNB-440		CNB-440					GCF_000016425.1-RS_2024_03_27	Complete Genome	2007-04-17		1
+GCF_900478115.1	50618_D02	Rhodococcus coprophilus		NCTC10994					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-06-17		1
+GCF_019285775.1	ASM1928577v1	Skermania piniformis		DSM 43998					GCF_019285775.1-RS_2024_05_06	Complete Genome	2021-07-20		1
+GCF_025215495.1	ASM2521549v1	Mycolicibacterium brumae		ATCC 51384					GCF_025215495.1-RS_2024_03_28	Complete Genome	2022-09-15		1
+GCF_000218545.1	ASM21854v1	Cellulomonas gilvus ATCC 13127		ATCC 13127					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2011-06-15		1
+GCF_000341345.1	ASM34134v1	Corynebacterium halotolerans YIM 70093 = DSM 44683		YIM 70093 = DSM 44683					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-02-20		2
+GCF_000767055.1	ASM76705v1	Corynebacterium doosanense CAU 212 = DSM 45436		CAU 212(T)					GCF_000767055.1-RS_2024_05_02	Complete Genome	2014-10-16		2
+GCF_028609805.1	ASM2860980v1	Corynebacterium massiliense DSM 45435		DSM 45435					GCF_028609805.1-RS_2024_03_24	Complete Genome	2023-02-13		1
+GCF_001263395.1	ASM126339v1	Bifidobacterium actinocoloniiforme DSM 22766		DSM 22766					GCF_001263395.1-RS_2024_06_16	Complete Genome	2015-08-10		1
+GCF_000015305.1	ASM1530v1	Mycolicibacterium vanbaalenii PYR-1		PYR-1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2006-12-27		1
+GCF_000025265.1	ASM2526v1	Conexibacter woesei DSM 14684		DSM 14684					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2010-01-15		1
+GCF_010731575.1	ASM1073157v1	Mycolicibacterium monacense		JCM 15658					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_000270245.1	ASM27024v1	Microlunatus phosphovorus NM-1		NM-1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2011-06-01		1
+GCF_000024785.1	ASM2478v1	Gordonia bronchialis DSM 43247		DSM 43247					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2009-10-27		2
+GCF_000024965.1	ASM2496v1	Xylanimonas cellulosilytica DSM 15894		DSM 15894					GCF_000024965.1-RS_2024_05_01	Complete Genome	2009-11-20		2
+GCF_000550785.1	ASM55078v1	Corynebacterium casei LMG S-19264		LMG S-19264					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-02-05		3
+GCF_030408815.1	ASM3040881v1	Corynebacterium freiburgense		DSM 45254					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		2
+GCF_000550805.1	ASM55080v1	Corynebacterium vitaeruminis DSM 20294		DSM 20294					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-02-05		1
+GCF_000177535.2	ASM17753v2	Corynebacterium resistens DSM 45100		DSM 45100					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2011-06-15		1
+GCF_016728665.1	ASM1672866v1	Corynebacterium propinquum		FDAARGOS_1112					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-01-20		1
+GCF_000196535.1	ASM19653v1	Mobiluncus curtisii ATCC 43063		ATCC 43063					GCF_000196535.1-RS_2024_03_28	Complete Genome	2010-06-14		1
+GCF_000590555.1	ASM59055v1	Corynebacterium argentoratense DSM 44202		DSM 44202					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-08-27		1
+GCF_001042695.1	ASM104269v1	Scardovia inopinata JCM 12537		JCM 12537					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-03-24		1
+GCF_000706765.1	ASM70676v1	Bifidobacterium [indicum] DSM 20214 = LMG 11587		LMG 11587					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-06-13		1
+GCF_000024225.1	ASM2422v1	Lancefieldella parvula DSM 20469		DSM 20469					GCF_000024225.1-RS_2024_05_01	Complete Genome	2009-09-09		1
+GCF_003955715.1	ASM395571v1	Streptomyces aquilus		GGCR-6					GCF_003955715.1-RS_2024_04_22	Complete Genome	2018-12-19		1
+GCF_000166135.1	ASM16613v1	Pseudofrankia inefficax		EuI1c					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2010-11-05		1
+GCF_014621695.1	ASM1462169v1	Streptomyces xanthii		CRXT-Y-14					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-15		3
+GCF_003074055.1	ASM307405v1	Streptomyces nigra		452					GCF_003074055.1-RS_2024_04_22	Complete Genome	2018-04-30		1
+GCF_000802245.2	ASM80224v2	Streptomyces pluripotens		MUSC 135					GCF_000802245.2-RS_2024_04_27	Complete Genome	2017-05-09		1
+GCF_016313185.1	ASM1631318v1	Mycolicibacterium baixiangningiae		LJ126					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-12-23		1
+GCF_010725485.1	ASM1072548v1	Mycolicibacterium parafortuitum		JCM 6367					GCF_010725485.1-RS_2024_03_22	Complete Genome	2020-02-06		1
+GCF_000993785.3	ASM99378v3	Streptomyces xiamenensis		MCCC 1A01550					GCF_000993785.3-RS_2024_05_04	Complete Genome	2019-08-19		1
+GCF_014041935.1	ASM1404193v1	Gordonia jinghuaiqii		zg-686					GCF_014041935.1-RS_2024_04_27	Complete Genome	2020-08-02		1
+GCF_008000995.1	ASM800099v1	Ruania zhangjianzhongii		HY168					GCF_008000995.1-RS_2024_04_27	Complete Genome	2019-08-18		2
+GCF_019645815.1	ASM1964581v1	Mycolicibacter heraklionensis		JCM 30995					GCF_019645815.1-RS_2024_06_24	Complete Genome	2021-08-17		1
+GCF_009911795.1	ASM991179v1	Pseudarthrobacter psychrotolerans		YJ56					GCF_009911795.1-RS_2024_05_05	Complete Genome	2020-01-22		3
+GCF_001456355.1	ASM145635v1	Mycobacteroides saopaulense		EPM10906					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-12-03		1
+GCF_034120055.1	ASM3412005v1	Microbacterium rhizosphaerae		KACC 19337					GCF_034120055.1-RS_2024_05_12	Complete Genome	2023-12-06		1
+GCF_003096075.1	ASM309607v1	Dietzia lutea		YIM 80766					GCF_003096075.1-RS_2024_04_22	Complete Genome	2018-05-07		4
+GCF_015277895.1	ASM1527789v1	Microbacterium abyssi		A18JL241					GCF_015277895.1-RS_2024_04_07	Complete Genome	2020-11-08		1
+GCF_021952865.1	ASM2195286v1	Clavibacter californiensis		CFBP 8216					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-02-04		2
+GCF_021922925.1	ASM2192292v1	Clavibacter phaseoli		LPPA 982					GCF_021922925.1-RS_2024_03_17	Complete Genome	2022-02-03		2
+GCF_014041995.1	ASM1404199v1	Changpingibacter yushuensis		JY-X040					GCF_014041995.1-RS_2024_05_05	Complete Genome	2020-08-02		1
+GCF_000767685.1	ASM76768v1	Corynebacterium ramonii FRC0011		FRC0011					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-10-22		1
+GCF_009026825.1	ASM902682v1	Corynebacterium urogenitale		LMM-1652					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-10-16		1
+GCF_017945865.1	ASM1794586v1	Xiamenia xianingshaonis		zg-886					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-04-14		1
+GCF_000024025.1	ASM2402v1	Catenulispora acidiphila DSM 44928		DSM 44928					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2009-08-21		1
+GCF_000024865.1	ASM2486v1	Streptosporangium roseum DSM 43021		DSM 43021					GCF_000024865.1-RS_2024_05_01	Complete Genome	2009-12-10		2
+GCF_000494755.1	ASM49475v1	Actinoplanes friuliensis DSM 7358		DSM 7358					GCF_000494755.1-RS_2024_03_27	Complete Genome	2013-11-01		1
+GCF_000328705.1	ASM32870v1	Saccharothrix espanaensis DSM 44229		type strain: DSM 44229					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2012-10-02		1
+GCF_000269985.1	ASM26998v1	Kitasatospora setae KM-6054		KM-6054					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2010-11-11		1
+GCF_008704855.1	ASM870485v1	Streptomyces platensis		ATCC 23948					GCF_008704855.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_000023245.1	ASM2324v1	Actinosynnema mirum DSM 43827		DSM 43827					GCF_000023245.1-RS_2024_05_01	Complete Genome	2009-08-13		1
+GCF_000024345.1	ASM2434v1	Kribbella flavida DSM 17836		DSM 17836					GCF_000024345.1-RS_2024_03_20	Complete Genome	2010-01-13		1
+GCF_000024545.1	ASM2454v1	Stackebrandtia nassauensis DSM 44728		DSM 44728					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2010-03-05		1
+GCF_000204155.1	ASM20415v1	Micromonospora maris AB-18-032		AB-18-032					GCF_000204155.1-RS_2024_04_26	Complete Genome	2011-04-13		2
+GCF_000024365.1	ASM2436v1	Nakamurella multipartita DSM 44233		DSM 44233					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2009-09-15		1
+GCF_000024385.1	ASM2438v1	Thermomonospora curvata DSM 43183		DSM 43183					GCF_000024385.1-RS_2024_05_01	Complete Genome	2009-11-16		1
+GCF_019645835.1	ASM1964583v1	Mycolicibacterium holsaticum DSM 44478 = JCM 12374		JCM 12374					GCF_019645835.1-RS_2024_06_24	Complete Genome	2021-08-17		1
+GCF_000025345.1	ASM2534v1	Geodermatophilus obscurus DSM 43160		DSM 43160					GCF_000025345.1-RS_2024_04_19	Complete Genome	2010-01-20		1
+GCF_900187065.1	50465_H02	Mycolicibacterium thermoresistibile		NCTC10409					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-15		1
+GCF_000348785.1	ASM34878v1	Ilumatobacter coccineus YM16-304		YM16-304					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-03-15		1
+GCF_000214175.1	ASM21417v1	Hoyosella subflava DQS3-9A1		DQS3-9A1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2011-05-20		3
+GCF_000023105.1	ASM2310v1	Beutenbergia cavernae DSM 12333		DSM 12333					GCF_000023105.1-RS_2024_05_01	Complete Genome	2009-05-07		1
+GCF_001653335.1	ASM165333v1	Nocardioides dokdonensis FR1436		FR1436					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-05-27		1
+GCF_000024925.1	ASM2492v1	Sanguibacter keddieii DSM 10542		DSM 10542					GCF_000024925.1-RS_2024_05_01	Complete Genome	2009-11-19		1
+GCF_000092865.1	ASM9286v1	Cellulomonas flavigena DSM 20109		DSM 20109					GCF_000092865.1-RS_2024_05_01	Complete Genome	2010-05-13		1
+GCF_020792675.1	ASM2079267v1	Brachybacterium halotolerans subsp. kimchii		CBA3105					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-11-08		2
+GCF_001636295.1	ASM163629v1	Isoptericola dokdonensis DS-3		DS-3					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-05-03		1
+GCF_900637975.1	53550_F01	Actinomyces viscosus		NCTC10951					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_900637295.1	50477_G01	Actinomyces slackii		NCTC11923					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_900637575.1	52006_A02	Slackia heliotrinireducens		NCTC11029					GCF_900637575.1-RS_2024_03_24	Complete Genome	2018-12-20		1
+GCF_000092825.1	ASM9282v1	Segniliparus rotundus DSM 44985		DSM 44985					GCF_000092825.1-RS_2024_05_01	Complete Genome	2010-05-18		1
+GCF_000442645.1	ASM44264v1	Corynebacterium maris DSM 45190		DSM 45190					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-08-01		2
+GCF_000418365.1	ASM41836v1	Corynebacterium terpenotabidum Y-11		Y-11					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2013-07-05		1
+GCF_900475835.1	45232_G01	Jonesia denitrificans		NCTC10816					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-06-17		1
+GCF_000835165.1	ASM83516v1	Corynebacterium marinum DSM 44953		DSM 44953					GCF_000835165.1-RS_2024_04_26	Complete Genome	2015-02-10		3
+GCF_001941485.1	ASM194148v1	Corynebacterium frankenforstense DSM 45800		ST18					GCF_001941485.1-RS_2024_05_03	Complete Genome	2017-01-10		1
+GCF_000015025.1	ASM1502v1	Acidothermus cellulolyticus 11B		11B; ATCC 43068					GCF_000015025.1-RS_2024_03_27	Complete Genome	2006-11-09		1
+GCF_024453815.1	ASM2445381v1	Corynebacterium pseudogenitalium		CCUG 27540					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-07-27		1
+GCF_000023265.1	ASM2326v1	Acidimicrobium ferrooxidans DSM 10331		DSM 10331					GCF_000023265.1-RS_2024_05_01	Complete Genome	2009-08-18		1
+GCF_000195315.1	ASM19531v1	Coriobacterium glomerans PW2		PW2					GCF_000195315.1-RS_2024_05_01	Complete Genome	2011-04-07		1
+GCF_000023845.1	ASM2384v1	Cryptobacterium curtum DSM 15641		DSM 15641					GCF_000023845.1-RS_2024_05_01	Complete Genome	2009-08-26		1
+GCF_002057455.1	ASM205745v1	[Actinomadura] parvosata subsp. kistnae		ATCC 55076					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-03-21		1
+GCF_033097365.1	ASM3309736v1	Actinoplanes sichuanensis		03-723					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-19		1
+GCF_019904175.1	ASM1990417v1	Dactylosporangium vinaceum		NRRL B-16297					GCF_019904175.1-RS_2024_05_06	Complete Genome	2021-09-08		1
+GCF_009497075.1	ASM949707v1	Nonomuraea phyllanthi		WYY166					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-03		1
+GCF_016598615.1	ASM1659861v1	Streptomyces liliifuscus		ZYC-3					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-01-10		2
+GCF_009498035.1	ASM949803v1	Saccharothrix syringae		NRRL B-16468					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-04		1
+GCF_030285665.1	ASM3028566v1	Amycolatopsis mongoliensis		4-36					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-06-18		1
+GCF_003963535.1	ASM396353v1	Streptomyces cyaneochromogenes		MK-45					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-23		1
+GCF_025137375.1	ASM2513737v1	Dactylosporangium fulvum		NRRL B-16292					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-09-12		1
+GCF_028622115.1	ASM2862211v1	Kutzneria chonburiensis		SMC256					GCF_028622115.1-RS_2024_03_25	Complete Genome	2023-02-14		1
+GCF_035918295.1	ASM3591829v1	Amycolatopsis rhabdoformis		NCIMB 14900					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2024-01-21		1
+GCF_018069625.1	ASM1806962v1	Streptomyces yatensis		DSM 41771					GCF_018069625.1-RS_2024_05_06	Complete Genome	2021-04-18		1
+GCF_019599145.1	ASM1959914v1	Streptomyces akebiae		MG28					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-08-15		2
+GCF_011764565.1	ASM1176456v1	Phytohabitans suffuscus		NBRC 105367					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-23		1
+GCF_008704495.1	ASM870449v1	Streptomyces kanamyceticus		ATCC 12853					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-09-26		1
+GCF_009184865.1	ASM918486v1	Streptomyces phaeolivaceus		GY16					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-10-20		2
+GCF_022385335.1	ASM2238533v1	Streptomyces deccanensis		KCTC 19241					GCF_022385335.1-RS_2024_03_28	Complete Genome	2022-02-24		1
+GCF_001701025.1	ASM170102v1	Lentzea guizhouensis		DHS C013					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-08-09		1
+GCF_015160855.1	ASM1516085v1	Streptomyces ferrugineus		CCTCC AA2014009					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-11-01		1
+GCF_014489635.1	ASM1448963v1	Streptomyces roseirectus		CRXT-G-22					GCF_014489635.1-RS_2024_05_05	Complete Genome	2020-09-06		1
+GCF_018324205.1	ASM1832420v1	Actinoplanes ianthinogenes		NBRC 13996					GCF_018324205.1-RS_2024_04_27	Complete Genome	2021-04-01		1
+GCF_000525635.1	ASM52563v1	Kutzneria albida DSM 43870		DSM 43870					GCF_000525635.1-RS_2024_03_28	Complete Genome	2014-02-03		1
+GCF_020616555.1	ASM2061655v1	Streptomyces longhuiensis		BH-MK-02					GCF_020616555.1-RS_2024_04_15	Complete Genome	2021-10-26		2
+GCF_030252345.1	ASM3025234v1	Actinoplanes oblitus		NRRL 3884					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-06-11		1
+GCF_009796285.1	ASM979628v1	Streptomyces broussonetiae		T44					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-12-24		1
+GCF_023498005.1	ASM2349800v1	Streptomyces durmitorensis		MS405					GCF_023498005.1-RS_2024_05_25	Complete Genome	2022-05-18		2
+GCF_001735805.1	ASM173580v1	Streptomyces fodineus		TW1S1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-09-20		1
+GCF_027270315.1	ASM2727031v1	Streptomyces cinnabarinus		DSM 40467					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-12-24		1
+GCF_011764545.1	ASM1176454v1	Phytohabitans flavus		NBRC 107702					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-23		1
+GCF_031593255.1	ASM3159325v1	Streptomyces janthinus		JCM 4387					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-09-18		2
+GCF_008705135.1	ASM870513v1	Streptomyces coeruleorubidus		ATCC 13740					GCF_008705135.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_003261055.1	ASM326105v1	Streptomyces cadmiisoli		ZFG47					GCF_003261055.1-RS_2024_05_04	Complete Genome	2018-06-24		2
+GCF_023277745.1	ASM2327774v1	Streptomyces halobius		3_2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-05-09		1
+GCF_003312875.1	ASM331287v1	Amycolatopsis albispora		WP1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-07-11		1
+GCF_001611795.1	ASM161179v1	Streptomyces qaidamensis		S10					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-04-06		1
+GCF_025642135.1	ASM2564213v1	Streptomyces cynarae		HUAS 13-4					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-10-11		2
+GCF_019222765.1	ASM1922276v1	Nocardia iowensis		NRRL 5646					GCF_019222765.1-RS_2024_05_06	Complete Genome	2021-07-15		1
+GCF_019175365.1	ASM1917536v1	Actinomadura graeca		32-07					GCF_019175365.1-RS_2024_03_28	Complete Genome	2021-07-08		3
+GCF_009498275.1	ASM949827v1	Streptomyces fagopyri		QMT-28					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-04		1
+GCF_004803895.1	ASM480389v1	Streptomyces hawaiiensis		ATCC 12236					GCF_004803895.1-RS_2024_05_04	Complete Genome	2019-04-23		1
+GCF_017068395.1	ASM1706839v1	Rhodococcus pseudokoreensis		R79					GCF_017068395.1-RS_2024_03_28	Complete Genome	2021-02-28		6
+GCF_019880305.1	ASM1988030v1	Streptomyces decoyicus		NRRL 2666					GCF_019880305.1-RS_2024_05_06	Complete Genome	2021-09-05		1
+GCF_021441825.1	ASM2144182v1	Streptomyces spinosirectus		CRSS-Y-16					GCF_021441825.1-RS_2024_04_08	Complete Genome	2022-01-12		1
+GCF_002946835.1	ASM294683v1	Streptomyces dengpaensis		XZHG99					GCF_002946835.1-RS_2024_03_28	Complete Genome	2018-02-22		3
+GCF_003344965.1	ASM334496v1	Streptomyces paludis		GSSD-12					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-07-30		1
+GCF_014295035.1	ASM1429503v1	Streptomyces buecherae		AC541					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-08-25		1
+GCF_003054555.1	ASM305455v1	Streptomyces lunaelactis		MM109					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-04-17		3
+GCF_018324255.1	ASM1832425v1	Polymorphospora rubra		NBRC 101157					GCF_018324255.1-RS_2024_05_06	Complete Genome	2021-04-01		1
+GCF_013744875.1	ASM1374487v1	Nocardia huaxiensis		WCH-YHL-001					GCF_013744875.1-RS_2024_03_28	Complete Genome	2020-07-27		1
+GCF_025264685.1	ASM2526468v1	Dactylosporangium roseum		NRRL B-16295					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-09-19		1
+GCF_021391495.1	ASM2139149v1	Amycolatopsis acidiphila		KCTC 39523					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-01-09		1
+GCF_022647665.1	ASM2264766v1	Streptomyces formicae		1H-GS9					GCF_022647665.1-RS_2024_04_06	Complete Genome	2022-03-21		2
+GCF_007856155.1	ASM785615v1	Streptomyces qinzhouensis		SSL-25					GCF_007856155.1-RS_2024_05_04	Complete Genome	2019-08-06		1
+GCF_003675325.1	ASM367532v1	Streptomyces dangxiongensis		Z022					GCF_003675325.1-RS_2024_03_28	Complete Genome	2018-10-23		2
+GCF_018362975.1	ASM1836297v1	Nocardia tengchongensis		CFH S0057					GCF_018362975.1-RS_2024_05_06	Complete Genome	2021-05-16		1
+GCF_008704395.1	ASM870439v1	Streptomyces alboniger		ATCC 12461					GCF_008704395.1-RS_2024_05_04	Complete Genome	2019-09-26		1
+GCF_948472415.1	JK4103	Kitasatospora fiedleri		DSM 114396					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-02-02		3
+GCF_027947595.1	ASM2794759v1	Streptomyces lienomycini		DSM 41475					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-01-25		1
+GCF_022699385.1	ASM2269938v1	Streptomyces tubbatahanensis		DSD3025					GCF_022699385.1-RS_2024_04_15	Complete Genome	2022-03-27		1
+GCF_008704575.1	ASM870457v1	Streptomyces galilaeus		ATCC 14969					GCF_008704575.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_011694815.1	ASM1169481v1	Streptomyces liangshanensis		QMT-12					GCF_011694815.1-RS_2024_04_19	Complete Genome	2020-03-24		1
+GCF_008704935.1	ASM870493v1	Streptomyces vinaceus		ATCC 27476					GCF_008704935.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_018885265.1	ASM1888526v1	Amycolatopsis aidingensis		YIM 96748					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-06-15		1
+GCF_008704445.1	ASM870444v1	Streptomyces prasinus		ATCC 13879					GCF_008704445.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_005517195.1	ASM551719v1	Streptomyces vilmorinianum		YP1					GCF_005517195.1-RS_2024_06_17	Complete Genome	2019-05-20		1
+GCF_014489615.1	ASM1448961v1	Streptomyces genisteinicus		CRPJ-33					GCF_014489615.1-RS_2024_05_05	Complete Genome	2020-09-06		3
+GCF_008704535.1	ASM870453v1	Streptomyces subrutilus		ATCC 27467					GCF_008704535.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_008704555.1	ASM870455v1	Streptomyces nitrosporeus		ATCC 12769					GCF_008704555.1-RS_2024_04_23	Complete Genome	2019-09-26		1
+GCF_014701095.1	ASM1470109v1	Streptomyces tuirus		JCM 4255					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-11		1
+GCF_024134545.1	ASM2413454v1	Nocardiopsis exhalans		JCM11759T					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-07-04		2
+GCF_015160875.1	ASM1516087v1	Streptomyces chromofuscus		DSM 40273					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-11-01		1
+GCF_029760955.1	ASM2976095v1	Streptomyces cathayae		HUAS 5					GCF_029760955.1-RS_2024_04_15	Complete Genome	2023-04-15		2
+GCF_016865425.1	ASM1686542v1	Actinocatenispora thailandica		NBRC 105041					GCF_016865425.1-RS_2024_03_28	Complete Genome	2021-01-12		1
+GCF_015910445.1	ASM1591044v1	Streptomyces bathyalis		ASO4wet					GCF_015910445.1-RS_2024_05_05	Complete Genome	2020-12-10		1
+GCF_001886715.1	ASM188671v1	Nocardia mangyaensis		Y48					GCF_001886715.1-RS_2024_03_28	Complete Genome	2016-11-28		1
+GCF_018316655.1	ASM1831665v1	Nocardiopsis changdeensis		Mg02					GCF_018316655.1-RS_2024_04_01	Complete Genome	2021-05-10		4
+GCF_013155125.1	ASM1315512v1	Pseudonocardia broussonetiae		Gen 01					GCF_013155125.1-RS_2024_03_28	Complete Genome	2020-05-24		4
+GCF_001941625.1	ASM194162v1	Actinoalloteichus fjordicus		ADI127-7					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-01-10		1
+GCF_003258605.2	ASM325860v2	Peterkaempfera bronchialis		DSM 106435					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-08-01		1
+GCF_018324685.1	ASM1832468v1	Actinocatenispora sera		NBRC 101916					GCF_018324685.1-RS_2024_04_26	Complete Genome	2021-04-01		1
+GCF_032108445.1	ASM3210844v1	Micromonospora halotolerans		DSM 45598					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-09-27		1
+GCF_026153355.1	ASM2615335v1	Streptomyces endophytica		HNM0140					GCF_026153355.1-RS_2024_04_15	Complete Genome	2022-11-13		1
+GCF_014764405.1	ASM1476440v1	Micromonospora craniellae		LHW63014					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-27		1
+GCF_024600715.1	ASM2460071v1	Streptomyces changanensis		HL-66					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-08-09		2
+GCF_003589885.1	ASM358988v1	Thermomonospora amylolytica		YIM 77502					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-09-24		1
+GCF_009671205.1	ASM967120v1	Micromonospora terminaliae		DSM 101760					GCF_009671205.1-RS_2024_04_23	Complete Genome	2019-11-19		2
+GCF_013694245.2	ASM1369424v2	Micromonospora ferruginea		28ISP2-46					GCF_013694245.2-RS_2024_06_09	Complete Genome	2023-08-24		1
+GCF_003130705.1	ASM313070v1	Rhodococcus oxybenzonivorans		S2-17					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-05-17		4
+GCF_018316795.1	ASM1831679v1	Nocardiopsis akebiae		HDS12					GCF_018316795.1-RS_2024_03_28	Complete Genome	2021-05-10		1
+GCF_010731295.1	ASM1073129v1	Mycolicibacterium boenickei		JCM 15653					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		2
+GCF_014235185.1	ASM1423518v1	Pseudonocardia petroleophila		CGMCC 4.1532					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-08-18		1
+GCF_010731895.1	ASM1073189v1	Mycolicibacterium helvum		JCM 30396					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_004328625.1	ASM432862v1	Streptomyces seoulensis		KCTC 9819					GCF_004328625.1-RS_2024_03_28	Complete Genome	2019-03-06		2
+GCF_010725885.1	ASM1072588v1	Mycolicibacterium tokaiense		JCM 6373					GCF_010725885.1-RS_2024_03_22	Complete Genome	2020-02-06		1
+GCF_019263705.2	ASM1926370v2	Pseudonocardia abyssalis		KRD168					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-07-16	JADQDK01	2
+GCF_013466425.1	ASM1346642v1	Mycobacterium vicinigordonae		24					GCF_013466425.1-RS_2024_05_05	Complete Genome	2020-07-22		1
+GCF_010730195.1	ASM1073019v1	Mycobacterium conspicuum		JCM 14738					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_006494775.1	ASM649477v1	Nocardioides humi		DCY24					GCF_006494775.1-RS_2024_05_04	Complete Genome	2019-06-27		1
+GCF_010730355.1	ASM1073035v1	Mycobacterium florentinum		JCM 14740					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010731715.1	ASM1073171v1	Mycobacterium stomatepiae		JCM 17783					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010731775.1	ASM1073177v1	Mycobacterium mantenii		JCM 18113					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010731655.1	ASM1073165v1	Mycobacterium paraseoulense		JCM 16952					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010731815.2	ASM1073181v2	Mycolicibacterium arabiense		JCM 18538					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		2
+GCF_019456655.1	ASM1945665v1	Mycolicibacterium diernhoferi		ATCC 19340					GCF_019456655.1-RS_2024_06_24	Complete Genome	2021-08-06		1
+GCF_010728525.1	ASM1072852v1	Mycobacterium shottsii		JCM 12657					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_022370635.2	ASM2237063v3	Mycolicibacterium crocinum		JCM 16369					GCF_022370635.2-RS_2024_06_24	Complete Genome	2022-09-02		3
+GCF_015710575.1	ASM1571057v2	Mycolicibacterium mengxianglii		Z-34					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-12-18		1
+GCF_003855095.1	ASM385509v1	Gordonia insulae		MMS17-SY073					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-02		1
+GCF_021172045.1	ASM2117204v1	Capillimicrobium parvum		0166_1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-12-13		1
+GCF_010730575.1	ASM1073057v1	Mycobacterium parmense		JCM 14742					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010726245.1	ASM1072624v1	Mycolicibacterium aichiense		JCM 6376					GCF_010726245.1-RS_2024_03_13	Complete Genome	2020-02-06		1
+GCF_010729895.1	ASM1072989v1	Mycolicibacterium confluentis		JCM 13671					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_018437505.1	ASM1843750v1	Spiractinospora alimapuensis		VN6-2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-05-21		1
+GCF_028416635.1	ASM2841663v1	Baekduia alba		0141_2					GCF_028416635.1-RS_2024_06_10	Complete Genome	2023-02-02		1
+GCF_010731115.1	ASM1073111v1	Mycolicibacterium phocaicum		JCM 15301					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_001644575.1	ASM164457v1	Mycobacterium adipatum		YC-RL4					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-05-16		2
+GCF_003344865.1	ASM334486v1	Euzebya pacifica		DY32-46					GCF_003344865.1-RS_2024_05_04	Complete Genome	2018-07-29		2
+GCF_010729305.1	ASM1072930v1	Mycolicibacterium psychrotolerans		JCM 13323					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_004323735.1	ASM432373v1	Streptomonospora litoralis		M2					GCF_004323735.1-RS_2024_04_11	Complete Genome	2019-03-04		2
+GCF_010728325.1	ASM1072832v1	Mycolicibacterium poriferae		JCM 12603					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		2
+GCF_010727325.1	ASM1072732v1	Mycolicibacterium alvei		JCM 12272					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		2
+GCF_010729665.1	ASM1072966v1	Mycolicibacterium madagascariense		JCM 13574					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		2
+GCF_016925615.1	ASM1692561v1	Natronosporangium hydrolyticum		DSM 106523					GCF_016925615.1-RS_2024_03_28	Complete Genome	2021-02-24		1
+GCF_010731855.1	ASM1073185v1	Mycolicibacterium anyangense		JCM 30275					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_021216675.1	ASM2121667v1	Streptomyces gobiensis		1_25					GCF_021216675.1-RS_2024_04_05	Complete Genome	2021-12-16		1
+GCF_010726645.1	ASM1072664v1	Mycolicibacterium duvalii		JCM 6396					GCF_010726645.1-RS_2024_04_27	Complete Genome	2020-02-06		1
+GCF_009708215.1	ASM970821v1	Occultella kanbiaonis		HY044					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-26		1
+GCF_900292015.1	MB901379	Mycobacterium basiliense					901379		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-12		1
+GCF_018278905.1	ASM1827890v1	Mycobacterium spongiae		FSD4b-SM					GCF_018278905.1-RS_2024_05_06	Complete Genome	2021-05-05		1
+GCF_010731595.1	ASM1073159v1	Mycobacterium seoulense		JCM 16018					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_022430545.2	ASM2243054v2	Mycobacterium paraterrae		DSM 45127					GCF_022430545.2-RS_2024_06_24	Complete Genome	2022-09-07		1
+GCF_010725725.1	ASM1072572v1	Mycolicibacterium pulveris		JCM 6370					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_900637205.1	50279_G01	Mycolicibacterium chitae		NCTC10485					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_001190945.1	ASM119094v1	Luteipulveratus mongoliensis		MN07-A0370					GCF_001190945.1-RS_2024_05_02	Complete Genome	2015-08-03		1
+GCF_010727945.1	ASM1072794v1	Mycobacterium cookii		JCM 12404					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_007970665.1	ASM797066v1	Baekduia soli		BR7-21					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-08-12		1
+GCF_024220175.1	ASM2422017v1	Paraconexibacter antarcticus		02-257					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-07-12		1
+GCF_007362775.1	ASM736277v1	Microlunatus elymi		KUDC0627					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-07-24		1
+GCF_011046535.1	ASM1104653v1	Nocardioides anomalus		HKS04					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-02		1
+GCF_010728725.1	ASM1072872v1	Mycobacterium branderi		JCM 12687					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		2
+GCF_010731535.1	ASM1073153v1	Mycobacterium lacus		JCM 15657					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010730745.1	ASM1073074v1	Mycobacterium heidelbergense		JCM 14842					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010731795.1	ASM1073179v1	Mycolicibacterium celeriflavum		JCM 18439					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_002356335.1	ASM235633v1	[Mycobacterium] stephanolepidis		NJB0901					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-06-17		1
+GCF_022374935.2	ASM2237493v2	Mycolicibacter virginiensis		DSM 100883					GCF_022374935.2-RS_2024_06_24	Complete Genome	2022-08-24		1
+GCF_019039255.1	ASM1903925v1	Nocardioides panacis		G188					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-06-27		1
+GCF_035320885.1	ASM3532088v1	Blastococcus brunescens		BMG 8361					GCF_035320885.1-RS_2024_04_07	Complete Genome	2024-01-09		1
+GCF_009664835.1	ASM966483v1	Allosaccharopolyspora coralli		E2A					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-17		1
+GCF_010731875.1	ASM1073187v1	Mycolicibacterium sarraceniae		JCM 30395					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_010731635.1	ASM1073163v1	Mycobacterium noviomagense		JCM 16367					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_004924335.1	ASM492433v1	Mycobacteroides salmoniphilum		DSM 43276					GCF_004924335.1-RS_2024_03_22	Complete Genome	2019-04-30		1
+GCF_020715685.1	ASM2071568v1	Dermatobacter hominis		Kera-3					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-11-02		1
+GCF_000214155.1	ASM21415v1	Mycolicibacter sinensis		JDM601					GCF_000214155.1-RS_2024_03_28	Complete Genome	2011-05-20		1
+GCF_004322855.1	ASM432285v1	Egibacter rhizosphaerae		EGI 80759					GCF_004322855.1-RS_2024_03_28	Complete Genome	2019-03-03		1
+GCF_009708005.2	ASM970800v2	Cellulosimicrobium protaetiae		BI34					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-05-18		2
+GCF_013466985.1	ASM1346698v1	Nocardioides ungokensis		LMG 28591					GCF_013466985.1-RS_2024_05_05	Complete Genome	2020-07-22		1
+GCF_018459925.1	ASM1845992v1	Nocardioides aquaticus		KCTC 9944					GCF_018459925.1-RS_2024_03_28	Complete Genome	2021-05-24		1
+GCF_010731615.1	ASM1073161v1	Mycolicibacterium insubricum		JCM 16366					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_027247405.1	ASM2724740v1	Jatrophihabitans cynanchi		SB3-54					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-12-22		1
+GCF_010730055.1	ASM1073005v1	Mycobacterium shinjukuense		JCM 14233					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_020991065.1	ASM2099106v1	Nocardioides okcheonensis		MMS20-HV4-12					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-11-28		1
+GCF_010726505.1	ASM1072650v1	Mycobacterium novum		JCM 6391					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_014960965.1	ASM1496096v1	Ruania alkalisoli		RN3S43					GCF_014960965.1-RS_2024_05_05	Complete Genome	2020-10-27		1
+GCF_006494815.1	ASM649481v1	Nocardioides sambongensis		KUDC 5002					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-06-25		1
+GCF_001305675.1	ASM130567v1	Gordonia phthalatica		QH-11					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-10-02		1
+GCF_021117425.1	ASM2111742v1	Brevibacterium zhoupengii		HY170					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-12-08		1
+GCF_010729485.1	ASM1072948v1	Mycolicibacter hiberniae		JCM 13571					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_017569225.1	ASM1756922v1	Pengzhenrongella sicca		LRZ-2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-03-23		1
+GCF_013177455.1	ASM1317745v1	Nocardioides marmotae		zg-579					GCF_013177455.1-RS_2024_06_17	Complete Genome	2020-05-27		1
+GCF_003611035.1	ASM361103v1	Cryobacterium soli		GCJ02					GCF_003611035.1-RS_2024_05_04	Complete Genome	2018-10-03		1
+GCF_011492945.1	ASM1149294v1	Rubrobacter tropicus		SCSIO 52909					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-19		2
+GCF_001660485.1	ASM166048v1	Agromyces aureus		AR33					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-06-09		1
+GCF_003268655.1	ASM326865v1	Arthrobacter dokdonellae							NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-06-27		2
+GCF_014126825.1	ASM1412682v1	Tomitella gaofuii		HY172					GCF_014126825.1-RS_2024_03_28	Complete Genome	2020-08-10		1
+GCF_021044565.1	ASM2104456v1	Subtercola endophyticus		AK-R2A1-2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-12-05		1
+GCF_023373525.1	ASM2337352v1	Brachybacterium kimchii		CBA3104					GCF_023373525.1-RS_2024_05_21	Complete Genome	2022-05-16		2
+GCF_021049285.1	ASM2104928v1	Ruania halotolerans		M4N3S171					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-12-06		1
+GCF_011420305.2	ASM1142030v2	Nocardioides ochotonae		ZJ1313					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-29		1
+GCF_011617705.1	ASM1161770v1	Brevibacterium limosum		o2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-23		1
+GCF_030296615.1	ASM3029661v1	Frondihabitans sucicola		NBRC 108728					GCF_030296615.1-RS_2024_06_21	Complete Genome	2023-03-24		2
+GCF_010731755.1	ASM1073175v1	Mycolicibacter minnesotensis		JCM 17932					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_014127485.1	ASM1412748v1	Nocardioides dongkuii		S-713					GCF_014127485.1-RS_2024_04_27	Complete Genome	2020-08-10		1
+GCF_013624435.2	ASM1362443v2	Nocardioides campestrisoli		MC1495					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-29		1
+GCF_023516435.1	ASM2351643v1	Jatrophihabitans telluris		N237					GCF_023516435.1-RS_2024_05_26	Complete Genome	2022-05-22		1
+GCF_024508315.1	ASM2450831v1	Cellulomonas xiejunii		zg-B89					GCF_024508315.1-RS_2024_06_03	Complete Genome	2022-08-03		1
+GCF_007859675.1	ASM785967v1	Humibacter ginsenosidimutans		WJ7-1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-08-07		1
+GCF_009834925.2	ASM983492v2	Eggerthella guodeyinii		HF-1101					GCF_009834925.2-RS_2024_04_27	Complete Genome	2020-10-29		1
+GCF_021398215.1	ASM2139821v1	Arthrobacter polaris		C1-1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-01-10		1
+GCF_006352065.1	ASM635206v1	Georgenia yuyongxinii		Z443					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-06-18		1
+GCF_026168515.1	ASM2616851v1	Brevibacterium spongiae		WHS-Z9					GCF_026168515.1-RS_2024_05_21	Complete Genome	2022-08-24		2
+GCF_010726955.1	ASM1072695v1	Mycolicibacterium fallax		JCM 6405					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_011617245.1	ASM1161724v1	Brevibacterium atlanticum		WO024					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-23		1
+GCF_011492965.1	ASM1149296v1	Rubrobacter marinus		SCSIO 52915					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-19		2
+GCF_010731835.1	ASM1073183v1	Mycolicibacillus koreensis		JCM 19956					GCF_010731835.1-RS_2024_03_28	Complete Genome	2020-02-06		1
+GCF_024508275.1	ASM2450827v1	Cellulomonas wangsupingiae		zg-Y908					GCF_024508275.1-RS_2024_06_03	Complete Genome	2022-08-03		1
+GCF_007197575.1	ASM719757v1	Ornithinimicrobium ciconiae		H23M54					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-07-20		1
+GCF_019931675.1	ASM1993167v1	Nocardioides rotundus		MCCC 1A10561					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-09-13		1
+GCF_018388445.1	ASM1838844v1	Cellulomonas wangleii		zg-ZUI222					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-05-17		1
+GCF_003710085.1	ASM371008v1	Nocardioides pantholopis		603					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-11-03		1
+GCF_010728155.1	ASM1072815v1	Mycolicibacterium doricum		JCM 12405					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-02-06		1
+GCF_009834025.1	ASM983402v1	Epidermidibacterium keratini		EPI-7					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-01-08		1
+GCF_004564375.1	ASM456437v1	Nocardioides euryhalodurans		MMS17-SY117					GCF_004564375.1-RS_2024_04_22	Complete Genome	2019-04-02		1
+GCF_022811705.1	ASM2281170v1	Agromyces larvae		CFWR-12					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-04-04		1
+GCF_008761635.1	ASM876163v1	Nocardioides cynanchi		SB3-45					GCF_008761635.1-RS_2024_03_22	Complete Genome	2019-10-01		1
+GCF_018388465.1	ASM1838846v1	Cellulomonas fengjieae		zg-ZUI188					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-05-17		1
+GCF_004102025.1	ASM410202v1	Actinomyces qiguomingii		actinomyces sp. 410					GCF_004102025.1-RS_2024_04_27	Complete Genome	2019-01-22		1
+GCF_015277855.1	ASM1527785v1	Microbacterium cremeum		NY27					GCF_015277855.1-RS_2024_03_23	Complete Genome	2020-11-08		1
+GCF_018623035.1	ASM1862303v1	Cellulomonas dongxiuzhuiae		zg-ZUI157					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-06-02		1
+GCF_004300825.1	ASM430082v1	Egicoccus halophilus		EGI 80432					GCF_004300825.1-RS_2024_03_28	Complete Genome	2019-02-26		1
+GCF_004683965.1	ASM468396v1	Nocardioides seonyuensis		MMS17-SY207-3					GCF_004683965.1-RS_2024_04_22	Complete Genome	2019-04-06		1
+GCF_007559025.1	ASM755902v1	Tomitella fengzijianii		HY188					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-07-28		2
+GCF_016925535.1	ASM1692553v1	Natronoglycomyces albus		DSM 106290					GCF_016925535.1-RS_2024_05_05	Complete Genome	2021-02-24		3
+GCF_001997345.1	ASM199734v1	Tessaracoccus aquimaris		NSG39					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-02-14		1
+GCF_022370835.2	ASM2237083v2	Mycolicibacillus parakoreensis		DSM 45575					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-08-24		2
+GCF_003351765.1	ASM335176v1	Ornithinimicrobium avium		AMA3305					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-08-01		1
+GCF_018866305.1	ASM1886630v1	Arthrobacter sunyaminii		zg-ZUI122					GCF_018866305.1-RS_2024_03_23	Complete Genome	2021-06-14		1
+GCF_011617465.1	ASM1161746v1	Brevibacterium pigmentatum		YB235					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-23		1
+GCF_004798685.1	ASM479868v1	Cellulomonas shaoxiangyii		Z28					GCF_004798685.1-RS_2024_04_22	Complete Genome	2019-04-17		1
+GCF_014489575.1	ASM1448957v1	Tessaracoccus defluvii		JCM 17540					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-06		1
+GCF_018388425.1	ASM1838842v1	Nocardioides faecalis		zg-536					GCF_018388425.1-RS_2024_06_17	Complete Genome	2021-05-17		1
+GCF_004135385.1	ASM413538v1	Xylanimonas protaetiae		FW10M-9					GCF_004135385.1-RS_2024_04_30	Complete Genome	2019-02-03		1
+GCF_900289045.1	MPGL2	Micropruina glycogenica					1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-02-20		1
+GCF_021590045.1	ASM2159004v1	Cellulomonas palmilytica		EW123					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-01-25		1
+GCF_004564355.1	ASM456435v1	Microbacterium wangchenii		dk512					GCF_004564355.1-RS_2024_03_28	Complete Genome	2019-04-02		1
+GCF_004135345.1	ASM413534v1	Xylanimonas allomyrinae		2JSPR-7					GCF_004135345.1-RS_2024_05_04	Complete Genome	2019-02-03		2
+GCF_002407185.1	ASM240718v1	Brachybacterium vulturis		VM2412					GCF_002407185.1-RS_2024_03_28	Complete Genome	2017-10-02		1
+GCF_011300215.1	ASM1130021v1	Nocardioides piscis		HDW12A					GCF_011300215.1-RS_2024_05_05	Complete Genome	2020-03-16		1
+GCF_023100725.1	ASM2310072v1	Arthrobacter antioxidans		QL17					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-04-25		1
+GCF_023923205.1	ASM2392320v1	Ornithinimicrobium cryptoxanthini		JY.X270					GCF_023923205.1-RS_2024_04_29	Complete Genome	2022-06-27		1
+GCF_003065605.1	ASM306560v1	Aeromicrobium chenweiae		592					GCF_003065605.1-RS_2024_04_19	Complete Genome	2018-04-23		1
+GCF_009650215.1	ASM965021v1	Actinomarinicola tropica		SCSIO 58843					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-11-12		1
+GCF_015277815.1	ASM1527781v1	Microbacterium atlanticum		WY121					GCF_015277815.1-RS_2024_03_23	Complete Genome	2020-11-08		1
+GCF_004526345.1	ASM452634v1	Ornithinimicrobium flavum		CPCC 203535					GCF_004526345.1-RS_2024_03_28	Complete Genome	2019-03-31		1
+GCF_011299575.1	ASM1129957v1	Leucobacter viscericola		HDW9C					GCF_011299575.1-RS_2024_04_23	Complete Genome	2020-03-16		1
+GCF_023022985.1	ASM2302298v1	Arthrobacter gengyunqii		zg-Y809					GCF_023022985.1-RS_2024_06_10	Complete Genome	2022-04-18		1
+GCF_030296655.1	ASM3029665v1	Barrientosiimonas endolithica		NBRC 110608					GCF_030296655.1-RS_2024_06_21	Complete Genome	2023-03-24		1
+GCF_018141545.1	ASM1814154v1	Miltoncostaea oceani		SCSIO 61214					GCF_018141545.1-RS_2024_05_06	Complete Genome	2021-04-27		3
+GCF_026153295.1	ASM2615329v1	Rhodococcus antarcticus		75					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-11-13		4
+GCF_011393335.1	ASM1139333v1	Propioniciclava coleopterorum		HDW11					GCF_011393335.1-RS_2024_06_07	Complete Genome	2020-03-16		1
+GCF_008727775.1	ASM872777v1	Microbacterium lushaniae		L-031					GCF_008727775.1-RS_2024_03_28	Complete Genome	2019-09-29		1
+GCF_009646095.1	ASM964609v1	Raineyella fluvialis		CBA3103					GCF_009646095.1-RS_2024_04_05	Complete Genome	2019-11-09		1
+GCF_003627055.1	ASM362705v1	Gryllotalpicola protaetiae		2DFW10M-5					GCF_003627055.1-RS_2024_05_04	Complete Genome	2018-10-07		2
+GCF_025244825.1	ASM2524482v1	Arthrobacter jinronghuae		zg-Y859					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-09-18		1
+GCF_009649075.1	ASM964907v1	Aeromicrobium yanjiei		MF47					GCF_009649075.1-RS_2024_04_19	Complete Genome	2019-11-11		2
+GCF_001509405.1	ASM150940v1	Aeromicrobium erythreum		AR18					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-01-08		1
+GCF_011751765.2	ASM1175176v2	Paramicrobacterium chengjingii		HY60					GCF_011751765.2-RS_2024_06_23	Complete Genome	2020-09-14		1
+GCF_011751745.2	ASM1175174v2	Paramicrobacterium fandaimingii		HY82					GCF_011751745.2-RS_2024_06_23	Complete Genome	2020-09-14		1
+GCF_001659785.1	ASM165978v1	Dietzia timorensis		ID05-A0528					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-06-07		1
+GCF_001998865.1	ASM199886v1	Tessaracoccus flavescens		SST-39T					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-02-14		2
+GCF_004798665.1	ASM479866v1	Actinomyces procaprae		dk561					GCF_004798665.1-RS_2024_03_28	Complete Genome	2019-04-17		1
+GCF_001685415.1	ASM168541v1	Serinicoccus hydrothermalis		JLT9					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-07-15		1
+GCF_000950575.1	ASM95057v1	Psychromicrobium lacuslunae		IHBB 11108					GCF_000950575.1-RS_2024_04_07	Complete Genome	2015-03-11		2
+GCF_018622995.1	ASM1862299v1	Arthrobacter jiangjiafuii		zg-ZUI227					GCF_018622995.1-RS_2024_03_23	Complete Genome	2021-06-02		1
+GCF_024508335.1	ASM2450833v1	Cellulomonas chengniuliangii		zg-Y338					GCF_024508335.1-RS_2024_06_03	Complete Genome	2022-08-03		1
+GCF_021582895.2	ASM2158289v2	Microbacterium elymi		KUDC0405					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-08-10		1
+GCF_022919155.1	ASM2291915v1	Leucobacter allii		H21R-40					GCF_022919155.1-RS_2024_05_21	Complete Genome	2022-04-12		1
+GCF_021049265.1	ASM2104926v1	Ruania suaedae		LR1S40					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-12-06		1
+GCF_003991875.1	ASM399187v1	Microbacterium lemovicicum		Viu22					GCF_003991875.1-RS_2024_04_01	Complete Genome	2019-01-04		1
+GCF_023921125.1	ASM2392112v1	Arthrobacter caoxuetaonis		zg-Y453					GCF_023921125.1-RS_2024_06_10	Complete Genome	2022-06-27		2
+GCF_008843165.1	ASM884316v1	Ornithinimicrobium pratense		W204					GCF_008843165.1-RS_2024_03_22	Complete Genome	2019-10-07		1
+GCF_002355155.1	ASM235515v1	Corynebacterium suranareeae		N24					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-05-03		1
+GCF_019880385.1	ASM1988038v1	Nocardioides coralli		SCSIO 67246					GCF_019880385.1-RS_2024_05_21	Complete Genome	2021-09-05		1
+GCF_015277875.1	ASM1527787v1	Microbacterium luteum		A18JL200					GCF_015277875.1-RS_2024_03_13	Complete Genome	2020-11-08		1
+GCF_000626675.1	ASM62667v1	Corynebacterium glyciniphilum AJ 3170		AJ 3170					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-04-11		2
+GCF_004208635.1	ASM420863v1	Leucobacter triazinivorans		JW-1					GCF_004208635.1-RS_2024_03_28	Complete Genome	2019-02-17		1
+GCF_025244925.1	ASM2524492v1	Arthrobacter zhaoxinii		zg-Y815					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-09-18		1
+GCF_022869865.1	ASM2286986v1	Arthrobacter zhangbolii		zg-Y462					GCF_022869865.1-RS_2024_06_10	Complete Genome	2022-04-11		1
+GCF_002216795.1	ASM221679v1	Brachybacterium avium		VR2415					GCF_002216795.1-RS_2024_03_28	Complete Genome	2017-07-12		3
+GCF_006349365.1	ASM634936v1	Georgenia wutianyii		Z294					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-06-15		1
+GCF_018024495.1	ASM1802449v1	Agromyces archimandritae		G127AT					GCF_018024495.1-RS_2024_04_26	Complete Genome	2021-04-16		1
+GCF_012277275.1	ASM1227727v1	Gephyromycinifex aptenodytis		NJES-13					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-04-14		1
+GCF_030296575.1	ASM3029657v1	Paraoerskovia sediminicola		NBRC 108565					GCF_030296575.1-RS_2024_06_21	Complete Genome	2023-03-24		2
+GCF_012931845.1	ASM1293184v1	Cellulomonas taurus		P40-2					GCF_012931845.1-RS_2024_05_05	Complete Genome	2020-04-29		1
+GCF_006337065.1	ASM633706v1	Agromyces laixinhei		HY052					GCF_006337065.1-RS_2024_03_28	Complete Genome	2019-06-13		1
+GCF_003325455.1	ASM332545v1	Acidipropionibacterium virtanenii		JS278					GCF_003325455.1-RS_2024_05_04	Complete Genome	2018-07-17		1
+GCF_003710105.1	ASM371010v1	Georgenia faecalis		ZLJ0423					GCF_003710105.1-RS_2024_04_27	Complete Genome	2018-11-03		1
+GCF_001020985.1	ASM102098v1	Corynebacterium mustelae		DSM 45274					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-06-05		3
+GCF_030296595.1	ASM3029659v1	Naasia aerilata		NBRC 108725					GCF_030296595.1-RS_2024_06_21	Complete Genome	2023-03-24		1
+GCF_019884725.1	ASM1988472v1	Leucobacter tenebrionis		NB10					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-09-06		1
+GCF_003860405.1	ASM386040v1	Nakamurella antarctica		S14-144					GCF_003860405.1-RS_2024_04_05	Complete Genome	2018-12-04		1
+GCF_018141525.1	ASM1814152v1	Miltoncostaea marina		SCSIO 60955					GCF_018141525.1-RS_2024_05_06	Complete Genome	2021-04-27		1
+GCF_009930795.1	ASM993079v1	Marisediminicola antarctica		ZS314					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-01-27		1
+GCF_022919175.1	ASM2291917v1	Leucobacter rhizosphaerae		H25R-14					GCF_022919175.1-RS_2024_05_21	Complete Genome	2022-04-12		1
+GCF_008727755.1	ASM872775v1	Microbacterium caowuchunii		ST-M6					GCF_008727755.1-RS_2024_03_28	Complete Genome	2019-09-29		1
+GCF_007559005.1	ASM755900v1	Gordonia zhaorongruii		HY186					GCF_007559005.1-RS_2024_04_27	Complete Genome	2019-07-28		1
+GCF_011382985.1	ASM1138298v1	Leucobacter coleopterorum		HDW9A					GCF_011382985.1-RS_2024_04_23	Complete Genome	2020-03-17		1
+GCF_004028235.1	ASM402823v1	Leucobacter muris		DSM 101948					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-01-17		1
+GCF_030297015.1	ASM3029701v1	Brooklawnia propionicigenes		SH051					GCF_030297015.1-RS_2024_04_28	Complete Genome	2023-05-12		1
+GCF_019316905.1	ASM1931690v1	Tessaracoccus palaemonis		J1M15					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-07-22		1
+GCF_021442325.1	ASM2144232v1	Agromyces marinus		DSM 26151					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-01-12		1
+GCF_020424085.1	ASM2042408v1	Mycetocola spongiae		MSC19					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-10-12		1
+GCF_019974135.1	ASM1997413v1	Actinomyces capricornis		MAS-1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-08-20		1
+GCF_030296555.1	ASM3029655v1	Microbacterium suwonense		NBRC 106310					GCF_030296555.1-RS_2024_06_21	Complete Genome	2023-03-24		1
+GCF_003065425.1	ASM306542v1	Mycetocola zhujimingii		CGMCC 1.16372					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-04-23		2
+GCF_900637165.1	49699_G02	Actinomyces howellii		NCTC11636					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_024508295.1	ASM2450829v1	Aeromicrobium duanguangcaii		zg-Y50					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-08-03		1
+GCF_009734425.1	ASM973442v1	Corynebacterium occultum		2039					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-12-09		2
+GCF_004010955.1	ASM401095v1	Actinomyces wuliandei		299					GCF_004010955.1-RS_2024_04_14	Complete Genome	2019-01-10		1
+GCF_014775655.1	ASM1477565v1	Clavibacter zhangzhiyongii		DM1					GCF_014775655.1-RS_2024_04_27	Complete Genome	2020-09-28		1
+GCF_030408795.1	ASM3040879v1	Corynebacterium hansenii		DSM 45109					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_003627075.1	ASM362707v1	Protaetiibacter intestinalis		2DFWR-13					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-10-07		1
+GCF_003070885.1	ASM307088v1	Agromyces badenianii		MF30-A					GCF_003070885.1-RS_2024_03_28	Complete Genome	2018-04-24		1
+GCF_001553565.1	ASM155356v1	Actinomyces radicidentis		CCUG 36733					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-02-09		1
+GCF_001643015.1	ASM164301v1	Corynebacterium crudilactis		JZ16					GCF_001643015.1-RS_2024_05_02	Complete Genome	2016-05-13		3
+GCF_030408595.1	ASM3040859v1	Corynebacterium canis		DSM 45402					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_900637915.1	52941_B01	Propionibacterium australiense		NCTC13651					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_030408735.1	ASM3040873v1	Corynebacterium faecale		DSM 45971					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		5
+GCF_003813965.1	ASM381396v1	Corynebacterium choanae		200CH					GCF_003813965.1-RS_2024_05_04	Complete Genome	2018-11-22		1
+GCF_001277995.1	ASM127799v1	Corynebacterium deserti GIMN1.010		GIMN1.010					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-09-02		3
+GCF_003945325.1	ASM394532v1	Nocardioides baekrokdamisoli		KCTC 39748					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-11-14		1
+GCF_900070355.1	S2_rcS3_S1_rcS3	Devriesea agamarum		IMP2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-07-14		1
+GCF_001941445.1	ASM194144v1	Corynebacterium aquilae DSM 44791		S-613					GCF_001941445.1-RS_2024_05_03	Complete Genome	2017-01-10		1
+GCF_014898155.1	ASM1489815v1	Bifidobacterium eulemuris		DSM 100216					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-10-20		1
+GCF_011382965.1	ASM1138296v1	Leucobacter insecticola		HDW9B					GCF_011382965.1-RS_2024_04_23	Complete Genome	2020-03-17		1
+GCF_014595995.2	ASM1459599v2	Actinomyces respiraculi		ZJ750					GCF_014595995.2-RS_2024_04_27	Complete Genome	2020-11-23		1
+GCF_011405655.1	ASM1140565v1	Adlercreutzia hattorii		8CFCBH1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-03-02		1
+GCF_020535405.1	ASM2053540v1	Antiquaquibacter oligotrophicus		SG_E_30_P1					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-10-20		1
+GCF_030252185.1	ASM3025218v1	Corynebacterium suedekumii		LM112					GCF_030252185.1-RS_2024_06_10	Complete Genome	2023-06-11		1
+GCF_003568865.1	ASM356886v1	Rubrobacter indicoceani		SCSIO 08198					GCF_003568865.1-RS_2024_03_28	Complete Genome	2018-09-13		3
+GCF_003971195.1	ASM397119v1	Flaviflexus ciconiae		H23T48					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-26		1
+GCF_000833575.1	ASM83357v1	Corynebacterium singulare		IBS B52218					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-02-06		1
+GCF_009734405.1	ASM973440v1	Corynebacterium comes		2019					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-12-09		2
+GCF_036324365.1	ASM3632436v1	Microbacterium limosum		Y20					GCF_036324365.1-RS_2024_04_07	Complete Genome	2023-10-31		1
+GCF_001941565.1	ASM194156v1	Corynebacterium phocae		M408/89/1					GCF_001941565.1-RS_2024_05_03	Complete Genome	2017-01-10		2
+GCF_001274895.1	ASM127489v1	Corynebacterium lactis RW2-5		RW2-5					GCF_001274895.1-RS_2024_05_02	Complete Genome	2015-08-26		1
+GCF_900343145.1	PRJEB25875	Tessaracoccus timonensis		Marseille-P5995					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-04-18		1
+GCF_001021045.1	ASM102104v1	Corynebacterium testudinoris		DSM 44614					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-06-05		1
+GCF_030408455.1	ASM3040845v1	Corynebacterium atrinae		JCM 19266					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		3
+GCF_026625045.1	ASM2662504v1	Microcella daejeonensis		MMS21-STM12					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-12-04		1
+GCF_030296675.1	ASM3029667v1	Demequina sediminis		NBRC 112286					GCF_030296675.1-RS_2024_06_21	Complete Genome	2023-03-24		1
+GCF_019575955.1	ASM1957595v1	Nesterenkonia pannonica		DSM 29786					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-08-12		1
+GCF_013184985.2	ASM1318498v2	Actinomyces faecalis		ZJ34					GCF_013184985.2-RS_2024_04_27	Complete Genome	2020-11-05		2
+GCF_001021025.1	ASM102102v1	Corynebacterium epidermidicanis		DSM 45586					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-06-05		1
+GCF_024362325.1	ASM2436232v1	Microcella humidisoli		MMS21-STM10					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-07-21		1
+GCF_020097155.1	ASM2009715v1	Micrococcus porci		KD337-16					GCF_020097155.1-RS_2024_06_24	Complete Genome	2021-09-23		1
+GCF_012530535.1	ASM1253053v1	Microcella flavibacter		WY83					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-04-20		1
+GCF_014522205.1	ASM1452220v1	Corynebacterium poyangense		4H37-19					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-10		1
+GCF_003952265.1	ASM395226v1	Flaviflexus salsibiostraticola		KCTC 33148					GCF_003952265.1-RS_2024_05_04	Complete Genome	2018-12-18		1
+GCF_011038655.2	ASM1103865v2	Corynebacterium lizhenjunii		ZJ-599					GCF_011038655.2-RS_2024_04_27	Complete Genome	2020-12-04		1
+GCF_001941505.1	ASM194150v1	Corynebacterium sphenisci DSM 44792		DSM 44792					GCF_001941505.1-RS_2024_05_03	Complete Genome	2017-01-10		1
+GCF_013414345.1	ASM1341434v1	Microcella indica		CTD02-10-2					GCF_013414345.1-RS_2024_06_03	Complete Genome	2020-07-14		1
+GCF_030252165.1	ASM3025216v1	Corynebacterium breve		R4					GCF_030252165.1-RS_2024_06_10	Complete Genome	2023-06-11		1
+GCF_900187215.1	52295_D01	Corynebacterium imitans		NCTC13015					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-08-15		1
+GCF_016598775.1	ASM1659877v1	Actinomyces weissii		CCUG 61299					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2021-01-10		1
+GCF_008365275.1	ASM836527v1	Protaetiibacter larvae		KACC 19322					GCF_008365275.1-RS_2024_05_04	Complete Genome	2019-09-10		1
+GCF_024971095.1	ASM2497109v1	Microbacterium neungamense		EF45044					GCF_024971095.1-RS_2024_06_17	Complete Genome	2022-09-06		1
+GCF_020616335.1	ASM2061633v1	Corynebacterium uberis		18M0132					GCF_020616335.1-RS_2024_05_18	Complete Genome	2021-10-26		1
+GCF_015711475.1	ASM1571147v2	Actinomyces trachealis		zg-993					GCF_015711475.1-RS_2024_04_27	Complete Genome	2020-12-01		1
+GCF_003065405.1	ASM306540v1	Corynebacterium yudongzhengii		2183					GCF_003065405.1-RS_2024_04_12	Complete Genome	2018-04-23		1
+GCF_009734385.1	ASM973438v1	Corynebacterium kalinowskii		1959					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2019-12-09		1
+GCF_028021195.1	ASM2802119v1	Cutibacterium equinum		CBA3108					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-01-26		1
+GCF_030408715.1	ASM3040871v1	Corynebacterium confusum		DSM 44384					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		2
+GCF_004795735.1	ASM479573v1	Corynebacterium endometrii		LMM-1653					GCF_004795735.1-RS_2024_05_04	Complete Genome	2019-04-16		1
+GCF_030408575.1	ASM3040857v1	Corynebacterium auris		DSM 44122					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_013177295.1	ASM1317729v1	Actinomyces marmotae		zg-325					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-05-27		1
+GCF_001021065.1	ASM102106v1	Corynebacterium uterequi		DSM 45634					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-06-05		1
+GCF_014396385.1	ASM1439638v1	Leucobacter denitrificans		KACC 14055					GCF_014396385.1-RS_2024_05_05	Complete Genome	2020-09-02		1
+GCF_001678905.1	ASM167890v1	Dermabacter vaginalis		AD1-86					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-07-05		1
+GCF_030408775.1	ASM3040877v1	Corynebacterium fournieri		DSM 103271					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2023-07-05		1
+GCF_004114895.1	ASM411489v1	Corynebacterium pelargi		136/3					GCF_004114895.1-RS_2024_04_03	Complete Genome	2019-01-28		1
+GCF_007641235.1	ASM764123v1	Corynebacterium sanguinis		CCUG 58655					GCF_007641235.1-RS_2024_05_04	Complete Genome	2019-07-30		1
+GCF_003070865.1	ASM307086v1	Corynebacterium liangguodongii		2184					GCF_003070865.1-RS_2024_04_22	Complete Genome	2018-04-24		1
+GCF_000980835.1	ASM98083v1	Corynebacterium kutscheri		DSM 20755					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-04-24		1
+GCF_003814005.1	ASM381400v1	Corynebacterium pseudopelargi		812CH					GCF_003814005.1-RS_2024_05_04	Complete Genome	2018-11-22		2
+GCF_014069875.1	ASM1406987v1	Flaviflexus equikiangi		dk850					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-08-05		1
+GCF_014490555.1	ASM1449055v1	Corynebacterium lujinxingii		zg-917					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-09-08		1
+GCF_000732945.1	ASM73294v1	Corynebacterium atypicum		R2070					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-07-24		2
+GCF_000747315.1	ASM74731v1	Corynebacterium ureicelerivorans		IMMIB RIV-2301					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2014-09-03		2
+GCF_003813985.1	ASM381398v1	Corynebacterium gerontici		W8					GCF_003813985.1-RS_2024_05_04	Complete Genome	2018-11-22		1
+GCF_943169825.2	ASM94316982v2	Varibaculum prostatecancerukia		EMRHCC_39					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-05-24		1
+GCF_014262665.1	ASM1426266v1	Corynebacterium anserum		23H37-10					GCF_014262665.1-RS_2024_05_05	Complete Genome	2020-08-21		1
+GCF_001856685.1	ASM185668v1	Boudabousia tangfeifanii		VUL4_3					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-10-31		1
+GCF_014490575.1	ASM1449057v1	Corynebacterium zhongnanshanii		zg-320					GCF_014490575.1-RS_2024_04_27	Complete Genome	2020-09-08		1
+GCF_011038645.2	ASM1103864v2	Corynebacterium qintianiae		MC1420					GCF_011038645.2-RS_2024_05_21	Complete Genome	2020-12-04		2
+GCF_900119915.1	PRJEB16351	Olsenella timonensis		Marseille-P2300					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-11-22		1
+GCF_015277515.1	ASM1527751v1	Thermophilibacter immobilis		LZLJ-2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-11-07		1
+GCF_900637955.1	54424_G02	Trueperella bialowiezensis		NCTC13354					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-20		1
+GCF_016127995.1	ASM1612799v1	Schaalia meyeri		FDAARGOS_985					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-12-20		1
+GCF_900155645.1	Propionibacterium massiliense	Vaginimicrobium propionicum		Marseille-P3275T					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-01-14		1
+GCF_023168405.1	ASM2316840v1	Leptogranulimonas caecicola		TOC12					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-02-02		1
+GCF_016904675.1	ASM1690467v1	Arcanobacterium phocisimile		DSM 26142					GCF_016904675.1-RS_2024_03_28	Complete Genome	2021-02-17		1
+GCF_000814825.1	ASM81482v1	Berryella intestinalis		68-1-3					GCF_000814825.1-RS_2024_03_28	Complete Genome	2015-01-06		1
+GCF_023973165.1	ASM2397316v1	Arcanobacterium pinnipediorum		DSM 28752					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2022-06-28		1
+GCF_012563545.1	ASM1256354v1	Arcanobacterium buesumense		2701					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2020-04-20		1
+GCF_033095945.1	ASM3309594v1	Bombiscardovia apis		KimH					GCF_033095945.1-RS_2024_05_12	Complete Genome	2023-06-13		1
+GCF_900120245.1	PRJEB17949	Actinomyces pacaensis		Marseille-P2985T					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2016-11-22		1
+GCF_029625435.1	ASM2962543v1	Arcanobacterium canis		DSM 25104					GCF_029625435.1-RS_2024_04_08	Complete Genome	2023-04-09		1
+GCF_001293125.1	ASM129312v1	Lawsonella clevelandensis		X1036					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2015-09-17		1
+GCF_003966955.1	ASM396695v1	Parolsenella catena		JCM 31932					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2018-12-01		1
+GCF_002950575.1	ASM295057v1	Pontimonas salivibrio		CL-TW6					GCF_002950575.1-RS_2024_05_03	Complete Genome	2018-02-21		1
+GCF_900169485.1	PRJEB19959	Phoenicibacter congonensis		Marseille-P3241					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2017-03-14		1
+GCF_013283855.1	ASM1328385v1	Aquiluna borgnonia		15G-AUS-rot					GCF_013283855.1-RS_2024_05_05	Complete Genome	2020-06-07		1
+GCF_900105335.1	IMG-taxon 2634166897 annotated assembly	Microbacterium paraoxydans		DSM 15019					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900104725.1	IMG-taxon 2634166338 annotated assembly	Actinoplanes derwentensis		DSM 43941					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900105925.1	IMG-taxon 2639762615 annotated assembly	Jiangella alkaliphila		DSM 45079					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900090265.1	IMG-taxon 2623620551 annotated assembly	Micromonospora rifamycinica		DSM 44983					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-16		1
+GCF_900091445.1	IMG-taxon 2623620567 annotated assembly	Micromonospora echinofusca		DSM 43913					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-15		1
+GCF_900104895.1	IMG-taxon 2634166341 annotated assembly	Microterricola viridarii		DSM 21772					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_012221945.1	ASM1222194v1	Glutamicibacter mishrai		S5-52					GCF_012221945.1-RS_2024_05_05	Chromosome	2020-04-09		1
+GCF_009735645.1	ASM973564v1	Microbacterium oryzae		MB-10					GCF_009735645.1-RS_2024_05_05	Chromosome	2019-12-09		1
+GCF_001580365.1	ASM158036v1	Kocuria turfanensis		HO-9042					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-03-07		5
+GCF_900103625.1	IMG-taxon 2634166344 annotated assembly	Corynebacterium mycetoides		DSM 20632					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_900105865.1	IMG-taxon 2634166335 annotated assembly	Arcanobacterium phocae		DSM 10002					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900108565.1	IMG-taxon 2636415969 annotated assembly	Mycolicibacterium rutilum		DSM 45405					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-27		1
+GCF_017378515.1	ASM1737851v1	Bifidobacterium saguini		DSMZ 23967					GCF_017378515.1-RS_2024_04_16	Chromosome	2021-03-18		1
+GCF_900089595.1	IMG-taxon 2617270871 annotated assembly	Micromonospora auratinigra		DSM 44815					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-06-16		1
+GCF_900091515.1	IMG-taxon 2627854289 annotated assembly	Micromonospora purpureochromogenes		DSM 43821					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-15		1
+GCF_900104685.1	IMG-taxon 2634166342 annotated assembly	Agromyces flavus		CPCC 202695					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900167475.1	IMG-taxon 2708742384 annotated assembly	Aeromicrobium choanae		9H-4					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2017-03-04		1
+GCF_900105445.1	IMG-taxon 2634166844 annotated assembly	Paraoerskovia marina		DSM 22126					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_014117265.1	ASM1411726v1	Corynebacterium hindlerae		NML 93-0612					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2020-08-09		2
+GCF_900105025.1	IMG-taxon 2636416177 annotated assembly	Parafannyhessea umbonata		DSM 22620					GCF_900105025.1-RS_2024_03_12	Chromosome	2016-10-21		1
+GCF_013201155.1	ASM1320115v1	Berryella wangjianweii		zg-1050					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2020-05-31		1
+GCF_023614315.1	ASM2361431v1	Streptomyces sudanensis		SD 504					GCF_023614315.1-RS_2024_03_28	Chromosome	2022-05-31		1
+GCF_001746855.1	ASM174685v1	Pauljensenia hongkongensis		HKU8					GCF_001746855.1-RS_2024_05_02	Chromosome	2016-09-26		1
+GCF_000349325.1	ASM34932v1	Streptomyces davaonensis JCM 4913		JCM 4913					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2012-10-09		2
+GCF_900103775.1	IMG-taxon 2634166198 annotated assembly	Allokutzneria albata		DSM 44149					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_003626895.1	ASM362689v1	Nocardia yunnanensis		CFH S0054					GCF_003626895.1-RS_2024_05_04	Chromosome	2018-10-07		1
+GCF_900090235.1	IMG-taxon 2623620557 annotated assembly	Micromonospora echinaurantiaca		DSM 43904					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-16		1
+GCF_900091425.1	IMG-taxon 2617270872 annotated assembly	Micromonospora krabiensis		DSM 45344					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-07-08		1
+GCF_900091545.1	IMG-taxon 2636416073 annotated assembly	Micromonospora viridifaciens		DSM 43909					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-15		1
+GCF_900091455.1	IMG-taxon 2623620612 annotated assembly	Micromonospora coriariae		DSM 44875					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-15		1
+GCF_900091505.1	IMG-taxon 2623620610 annotated assembly	Micromonospora chokoriensis		DSM 45160					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-15		1
+GCF_900090295.1	IMG-taxon 2623620609 annotated assembly	Micromonospora coxensis		DSM 45161					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-16		1
+GCF_900105385.1	IMG-taxon 2636416048 annotated assembly	Microlunatus soli		DSM 21800					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900090285.1	IMG-taxon 2623620396 annotated assembly	Micromonospora inositola		DSM 43819					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-16		1
+GCF_900089605.1	IMG-taxon 2617270834 annotated assembly	Micromonospora narathiwatensis		DSM 45248					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-06-16		1
+GCF_900104745.1	IMG-taxon 2636416006 annotated assembly	Actinopolymorpha singaporensis		DSM 22024					GCF_900104745.1-RS_2024_04_05	Chromosome	2016-10-20		1
+GCF_900090305.1	IMG-taxon 2634166273 annotated assembly	Micromonospora siamensis		DSM 45097					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-08-16		1
+GCF_002214185.1	ASM221418v1	Streptomyces capitiformicae		1H-SSA4					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2017-07-03		1
+GCF_025790165.1	ASM2579016v1	Solicola gregarius		A5X3R13					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2022-10-21		1
+GCF_900105065.1	IMG-taxon 2630969010 annotated assembly	Friedmanniella luteola		DSM 21741					GCF_900105065.1-RS_2024_04_30	Chromosome	2016-10-20		1
+GCF_900101785.1	IMG-taxon 2636415982 annotated assembly	Auraticoccus monumenti		MON 2.2					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_900105535.1	IMG-taxon 2634166282 annotated assembly	Pseudarthrobacter equi		IMMIB L-1606					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900105045.1	IMG-taxon 2634166182 annotated assembly	Brevibacterium sandarakinum		DSM 22082					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_900105785.1	IMG-taxon 2634166345 annotated assembly	Microlunatus sagamiharensis		DSM 21743					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900104965.1	IMG-taxon 2634166904 annotated assembly	Nocardioides scoriae		DSM 22127					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900105315.1	IMG-taxon 2634166531 annotated assembly	Brevibacterium siliguriense		DSM 23676					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-21		1
+GCF_900104525.1	IMG-taxon 2634166372 annotated assembly	Pedococcus dokdonensis		DSM 22329					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_008365295.1	ASM836529v1	Agromyces intestinalis		KACC 19306					GCF_008365295.1-RS_2024_05_04	Chromosome	2019-09-10		1
+GCF_900100885.1	IMG-taxon 2634166516 annotated assembly	Microbacterium pygmaeum		DSM 23142					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_900099705.1	IMG-taxon 2634166279 annotated assembly	Agrococcus jejuensis		DSM 22002					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_003606385.1	ASM360638v1	Actinomyces lilanjuaniae		2129					GCF_003606385.1-RS_2024_04_14	Chromosome	2018-09-30		1
+GCF_900104705.1	IMG-taxon 2634166154 annotated assembly	Agrococcus carbonis		DSM 22965					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-10-20		1
+GCF_017357045.1	ASM1735704v1	Bifidobacterium imperatoris		JCM 32708					GCF_017357045.1-RS_2024_04_11	Chromosome	2021-03-16		1
+GCF_014217255.1	ASM1421725v1	Corynebacterium incognita		Marseille-Q3630					GCF_014217255.1-RS_2024_05_05	Chromosome	2020-08-17		1
+GCF_023101205.1	ASM2310120v1	Microbacterium aurugineum		KSW4-10					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2022-04-25		1
+GCF_003355155.1	ASM335515v1	Streptomyces armeniacus		ATCC 15676					GCF_003355155.1-RS_2024_05_04	Chromosome	2018-08-05		1
+GCF_003293675.1	ASM329367v1	Gardnerella leopoldii		UGent 06.41					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2018-07-09		1
+GCF_900143685.1	PRJEB18025	Parolsenella massiliensis		Marseille-P3237T					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2016-12-08		1
+GCF_030758955.1	ASM3075895v1	Agrococcus beijingensis		REN33					GCF_030758955.1-RS_2024_04_07	Chromosome	2023-08-16		1
+GCF_003855255.1	ASM385525v1	Mycolicibacterium nivoides		DL90					GCF_003855255.1-RS_2024_03_31	Chromosome	2018-12-02		1
+GCF_000196675.2	ASM19667v2	Pseudonocardia dioxanivorans CB1190		CB1190					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2011-03-28		6
+GCF_000231055.2	ASM23105v3	Saccharomonospora azurea NA-128		NA-128					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2012-03-06	AGIU02	1
+GCF_000244975.1	ASM24497v1	Saccharomonospora cyanea NA-134		NA-134					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2012-02-03	AHLY01	1
+GCF_000244955.1	ASM24495v1	Saccharomonospora marina XMU15		XMU15					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2012-02-03	AHLX01	1
+GCF_000143825.1	ASM14382v1	Corynebacterium genitalium ATCC 33030		ATCC 33030					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2010-09-07	ACLJ02	1
+GCF_000243395.2	ASM24339v3	Saccharomonospora glauca K62		K62					NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Chromosome	2012-04-18	AGJI02	2
+GCF_000160775.2	ASM16077v2	Aeromicrobium marinum DSM 15272		DSM 15272					GCF_000160775.2-RS_2024_05_01	Chromosome	2010-11-15	ACLF03	1
+GCF_019668465.1	ASM1966846v1	Mycobacterium senriense		TY59					GCF_019668465.1-RS_2024_05_31	Chromosome	2021-07-10		3
